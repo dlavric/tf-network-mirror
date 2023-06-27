@@ -50,7 +50,7 @@ provider installation configuration.
 cp .terraformrc ~
 ```
 
-- Initialize the providers:
+- Initialize the Terraform providers:
 ```shell
 terraform init
 
